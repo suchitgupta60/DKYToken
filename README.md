@@ -21,4 +21,5 @@ click on "Add Token" button. Then paste the contract address above and it should
 and Decimals.
 Now you should be able to see the DKY coins in your wallet.
 
-DKYToken/sampleImage.png
+
+![Alt text](sampleImage.png?raw=true "Supply")
