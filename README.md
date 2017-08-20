@@ -20,3 +20,5 @@ Myetherwallet or any other token compatible wallet. In case of Metamask, once yo
 click on "Add Token" button. Then paste the contract address above and it should automatically detect the token Symbol
 and Decimals.
 Now you should be able to see the DKY coins in your wallet.
+
+DKYToken/sampleImage.png
