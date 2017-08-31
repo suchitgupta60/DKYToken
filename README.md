@@ -2,7 +2,7 @@
 
 IERC20.sol file is an abstract contract that outlines the standard functions needed for ERC20 Token.
 
-SafeMath.sol file is being used to avoid overflow and underflow attack whenever performning mathematical operations
+SafeMath.sol file is being used to avoid overflow and underflow attack whenever performing mathematical operations
               such as add, sub, mult etc.
              
 DKYToken.sol file is the main contract that implements IERC20 functions and initializes necessary variables.
